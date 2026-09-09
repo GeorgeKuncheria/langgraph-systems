@@ -1,0 +1,7 @@
+This is the setup on .env file
+
+
+LANGSMITH_TRACING="true"
+LANGSMITH_API_KEY="<FETCH FROM LANGSMITH>"
+LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
+LANGSMITH_PROJECT="<GIVE ANY NAME>"
